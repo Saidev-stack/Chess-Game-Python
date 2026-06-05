@@ -42,6 +42,8 @@ This project was developend to practice:
 - Function decomposition
 - Graphical programming
 - Game logic implementaion
+## Screenshot
+![Chess Game](Screenshot_2026-06-05_20-46-45.png)
 ## Authon
 Said Hamlat
 Computer Science Student
